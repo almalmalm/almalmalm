@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Why Not Hire App
 - 🌱 I’m currently learning Next
-- 🤔 I’m looking for help with frontend projects
+- 🤔 I’m looking for work with frontend projects
 - 💬 Feel free to contact me
 <!--
 - 👯 I’m looking to collaborate on ...
