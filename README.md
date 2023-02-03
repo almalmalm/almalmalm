@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Why Not Hire App
-- 🌱 I’m currently learning Next
-- 🤔 I’m looking for work with frontend projects
+- 🔭 I’m currently working on Playwright + Typescript Automation projects
+- 🌱 I’m currently learning Jenkins
+- 🤔 I’m looking for work with automaion projects
 - 💬 Feel free to contact me
 <!--
 - 👯 I’m looking to collaborate on ...
