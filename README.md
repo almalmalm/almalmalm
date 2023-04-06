@@ -1,4 +1,5 @@
 ### Hi there 👋
+  ![My Codewarrior Profile Badge](https://www.codewars.com/users/almalmalm/badges/large)
 
 - 🔭 I’m currently working on Playwright + Typescript Automation projects
 - 🌱 I’m currently learning Jenkins
