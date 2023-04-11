@@ -2,7 +2,7 @@
   ![My Codewarrior Profile Badge](https://www.codewars.com/users/almalmalm/badges/large)
 
 - 🔭 I’m currently working on Playwright + Typescript Automation projects
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning load testing
 - 🤔 I’m looking for work with automaion projects
 - 💬 Feel free to contact me
 <!--
