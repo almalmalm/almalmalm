@@ -1,5 +1,6 @@
 ### Hi there 👋
   ![My Codewarrior Profile Badge](https://www.codewars.com/users/almalmalm/badges/large)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=almalmalm)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on [Anime watching platform](https://anime-abyss.vercel.app/)
 - 🌱 I’m currently looking for a frontend developer job
