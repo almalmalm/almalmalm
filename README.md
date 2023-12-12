@@ -2,12 +2,12 @@
   ![My Codewarrior Profile Badge](https://www.codewars.com/users/almalmalm/badges/large)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=almalmalm)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on [Anime watching platform](https://anime-abyss.vercel.app/)
-- 🌱 I’m currently looking for a frontend developer job
+- 🔭 I’m currently working on 
+- 🌱 I’m currently looking for
 - 💬 Feel free to contact me
 <!--
-- 🌱 I’m currently learning load testing
-- 🤔 I’m looking for work with automaion projects
+- 🌱 I’m currently learning 
+- 🤔 I’m looking for work with 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
